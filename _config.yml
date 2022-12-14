@@ -2,10 +2,10 @@
 # Site settings
 name: eacabbi.github.io
 title: Luca Mazzone
-description: Assistant Professor at UC3M.
-repo: https://github.com/ildodo12/website
-url: https://eacabbi.github.io
-baseurl: /eacabbi.github.io
+description: Economist at the International Monetary Fund
+repo: https://github.com/lucamazzone/lucamazzone.github.io
+url: https://lucamazzone.github.io
+baseurl: /lucamazzone.github.io
 google_analytics: UA-179129314-1
 google-site-verification: EjDn9NB75Ybc73Rp6H3LzGkSFajoB4_PGmSHZUPYT3o
 
@@ -13,12 +13,12 @@ google-site-verification: EjDn9NB75Ybc73Rp6H3LzGkSFajoB4_PGmSHZUPYT3o
 author: Luca Mazzone
 first_name: Luca
 last_name: Mazzone
-university: Universidad Carlos III de Madrid
-department: Depto. de Economia de la Empresa
-address: C/Madrid 126, 28903 Getafe, ES
-office: Normante 6.0.23B
-email: edoardomaria.acabbi@uc3m.es
-email2: eacabbi@northwesten.edu
+university: International Monetary Fund
+department: European Department
+address: 720 19th Street, NW, Washington, DC
+office:  
+email: lmazzone@imf.org
+email2: luca.g.mazzone@gmail.com
 
 # Icon settings
 doi_icon: ai ai-doi
