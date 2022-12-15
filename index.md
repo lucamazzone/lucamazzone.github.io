@@ -2,13 +2,14 @@
 layout: home
 ---
 
-I will be visiting the Economics Department at Northwestern University this Fall. Please get in touch if you want to meet!
+Welcome to my research website! My research interests are in macroeconomics, labor economics, and household finance. 
+
 ## CV <a href="{{ site.url }}/docs/EMA_cv.pdf" class="{{ site.link_icon }}" title="{{ site.link_title }}" id="icon"></a>
 
 
 ---
 
-## Publications
+## Research
 
 <a href="https://www.antoinebertheau.com/"> Bertheau, Antoine</a>, Acabbi, Edoardo M., <a href="https://www.bde.es/investigador/en/menu/people/research_staff_a/Barcelo__Cristina.html"> Barcelo, Cristina </a>, <a href="https://sites.google.com/site/andreasgulyas/home"> Gulyas, Andreas </a>, <a href="https://stefano-lombardi.github.io/"> Lombardi, Stefano <a/>,  and <a href="https://sites.google.com/site/raffaelesaggio/"> Saggio, Raffaele </a> (2022).
 <br> 
@@ -24,7 +25,7 @@ We document the consequences of losing a job across countries using a harmonized
 </details>
 
 ---
-## Working Papers
+## Policy Work
 
 Acabbi, Edoardo M., <a href="https://sites.google.com/view/ettorepanetti"> Panetti, Ettore </a> and <a href="https://sites.google.com/site/alessandrosforza87/home"> Sforza, Alessandro</a> (2022).  
 **The Financial Channels of Labor Rigidities: Evidence from Portugal.** <a href="{{ site.url }}/docs/APS_full.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a> 
