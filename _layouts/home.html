@@ -20,10 +20,20 @@
              I am an economist at the European Department of the International Monetary Fund
               <br><span class="link-text" style="">Mail me</span> at: </a><a href="mailto:lmazzone@imf.org" class="icon_a"><i class="fa fa-envelope"></i>
                  <br><span class="link-text" style="">Repository</span> : </a><a href="https://github.com/lucamazzone" class="icon_a"><i class="fab fa-github"></i>
-                <!-- <br><a href="https://twitter.com/alatiandre" class="icon_a"><i class="fa fa-twitter"></i><span class="link-text">twitter</span> Twitter</a>
-                <br><a href="skype:andrea.alati?chat" class="icon_a"><i class="fa fa-skype"></i><span class="link-text">skype</span> Skype</a>
-                -->
-            </div>
+
+                <div class="section" style="width: 100%; ">
+                <h1> &nbsp; </h1>
+                <ul class="fa-ul">
+                  <li><span class="fa-li"><i class="fas fa-map-marker-alt"></i></span>{{ site.university }}<br />{{ site.department }}<br />{{ site.address }}</li>
+                  <li><span class="fa-li"><i class="fas fa-door-open"></i></span>{{ site.office }}</li>
+                  <li><span class="fa-li"><i class="fas fa-phone-alt"></i></span>{{ site.phone }}</li>
+                  <li><span class="fa-li"><i class="fas fa-envelope"></i></span><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+                  <li><span class="fa-li"><i class="fas fa-envelope"></i></span><a href="mailto:{{ site.email2 }}">{{ site.email2 }}</a></li>
+                  <li><span class="fa-li"><i class="fas fa-globe"></i></span><a href="{{ site.url }}">{{ site.url | replace: "https://", "" | replace: "http://", "" }}</a></li>
+                </ul>
+              </div>
+
+              </div>
           </div>
         </div>
   </section>
