@@ -8,7 +8,7 @@ Welcome to my research website! My research interests are in macroeconomics, lab
 
 ## Research
 
-<a href="https://sites.google.com/view/mfolch/home"> Marc Folch </a>, and Luca Mazzone (2022).
+<a href="https://sites.google.com/view/mfolch/home"> Marc Folch</a> and Luca Mazzone (2022).
 <br> 
 **Go Big or Buy a Home: The Student Debt Overhang** <a href="{{ site.url }}/docs/Student_Debt_Paper_site.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
 <sub> Submitted </sub> <br>
@@ -30,7 +30,7 @@ Luca Mazzone (2021).
 </details>  
   
   
-<a href="https://eacabbi.github.io">  Edoardo Acabbi </a>, <a href="https://andrealati.github.io"> Andrea Alati </a>, and Luca Mazzone (2022).
+<a href="https://eacabbi.github.io">  Edoardo Acabbi</a>, <a href="https://andrealati.github.io"> Andrea Alati</a>, and Luca Mazzone (2022).
 <br> 
 **A Labor Market Sorting Model of Scarring and Hysteresis** <a href="{{ site.url }}/docs/INPS_site.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
 <sub> In Progress (New Draft Soon) </sub> <br>
@@ -50,6 +50,12 @@ To what extent are young workers affected by health shocks that happen to their 
 
 ---
 ## Work in Progress
+
+Luca Mazzone and <a href="https://sites.google.com/view/jasonsockin/home" Jason Sockin </a> (2022)
+<br>
+**The Labor Economics of Political Polarization** 
+<br>
+   
 
 ---
 ## Policy Work
