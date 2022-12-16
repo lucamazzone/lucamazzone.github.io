@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Welcome to my research website! My research interests are in macroeconomics, labor economics, and household finance. 
+Welcome to my research website! My research interests are in macroeconomics, labor economics, and household finance. Here's my <a href="{{ site.url }}/assets/New_CV.pdf"> CV </a>.
 
 ## CV <a href="{{ site.url }}/assets/New_CV.pdf" class="{{ site.link_icon }}" title="{{ site.link_title }}" id="icon"></a>
 
