@@ -57,7 +57,7 @@ To what extent are young workers affected by health shocks that happen to their 
 ---
 ## Work in Progress
 
-Luca Mazzone and <a href="https://sites.google.com/view/jasonsockin/home" Jason Sockin </a> 
+Luca Mazzone and <a href="https://sites.google.com/view/jasonsockin/home"> Jason Sockin </a> 
 <br>
 **The Labor Economics of Political Polarization** 
 <br>
