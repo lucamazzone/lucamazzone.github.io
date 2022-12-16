@@ -4,7 +4,7 @@ layout: home
 
 Welcome to my research website! My research interests are in macroeconomics, labor economics, and household finance. 
 
-## CV <a href="{{ site.url }}/docs/EMA_cv.pdf" class="{{ site.link_icon }}" title="{{ site.link_title }}" id="icon"></a>
+## CV <a href="{{ site.url }}/assets/New_CV.pdf" class="{{ site.link_icon }}" title="{{ site.link_title }}" id="icon"></a>
 
 
 ---
