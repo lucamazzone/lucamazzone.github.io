@@ -8,17 +8,16 @@ Welcome to my research website! My research interests are in macroeconomics, lab
 
 ## Research
 
-<a href="https://www.antoinebertheau.com/"> Bertheau, Antoine</a>, Acabbi, Edoardo M., <a href="https://www.bde.es/investigador/en/menu/people/research_staff_a/Barcelo__Cristina.html"> Barcelo, Cristina </a>, <a href="https://sites.google.com/site/andreasgulyas/home"> Gulyas, Andreas </a>, <a href="https://stefano-lombardi.github.io/"> Lombardi, Stefano <a/>,  and <a href="https://sites.google.com/site/raffaelesaggio/"> Saggio, Raffaele </a> (2022).
+<a href="https://sites.google.com/view/mfolch/home"> Folch, Marc</a>, Mazzone Luca (2022).
 <br> 
-**The Unequal Consequences of Job Loss across Countries.** <a href="{{ site.url }}/docs/JobDisplacement_AcrossEurope.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
-<sub> Forthcoming, _American Economic Review: Insights_ </sub> <br>
-<sub> NBER working paper version <a href="https://www.nber.org/papers/w29727" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}"  id="icon"></a> </sub><br>
-<sub> Media Coverage: <a href="https://voxeu.org/article/unequal-cost-job-loss-across-countries">VoxEu.org</a>, <a href="https://www.weforum.org/agenda/2022/03/the-unequal-cost-of-job-loss-across-countries/">World Economic Forum</a> and  <a href="https://theconversation.com/southern-european-workers-lose-more-than-their-jobs-when-they-are-laid-off-191002">The Conversation Global</a> in English, <a href="https://www.lavoce.info/archives/93689/limpatto-del-licenziamento-non-e-uguale-per-tutti/">LaVoce.info</a> in Italian, <a href="https://theconversation.com/los-trabajadores-del-sur-de-europa-pierden-mas-que-el-empleo-cuando-son-despedidos-175880">The Conversation España</a> in Spanish, <a href="https://research.pej.pt/2022/03/the-experience-of-losing-a-job-in-different-countries-in-europe/">Portuguese Economy Research Report</a> in English.</sub>
+**Go Big or Buy a Home: The Student Debt Overhang.** <a href="{{ site.url }}/docs/Student_Debt_Paper_site.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
+<sub> Submitted </sub> <br>
+<sub> Featured: <a href="https://eeavirtual.org/node/1430">EEA Congress</a> and  <a href="https://blogs.lse.ac.uk/businessreview/2020/10/08/how-student-debt-influences-the-behaviour-of-graduates">LSE Business Review</a>
 
 <details>
 <summary><b> Abstract. </b></summary>
 
-We document the consequences of losing a job across countries using a harmonized research design. Workers in Denmark and Sweden experience the lowest earnings declines following job displacement, while workers in Italy, Spain, and Portugal experience losses three times as high. French and Austrian workers face earnings losses somewhere in-between. Key to these differences is that Southern European workers are less likely to find employment following displacement. Loss of employer-specific wage premiums accounts for 40% to 95% of within country wage declines. The use of active labor market policies predicts a significant portion of the cross-country heterogeneity in earnings losses.
+Exploiting supply-side variations in college grants, we document that student debt decreases post-bachelor school enrollment and earnings growth, but does not delay first-time home ownership. This is consistent with the implications of a life-cycle human capital model with student debt overhang. High debt balances distort career choices because returns to further education depend on current income. Student debt impacts home ownership in two ways. First, it deters it via the traditional wealth channel. Second, it might increase it if it induces giving up further education and early labor market entry. Finally, we show that the impact of student borrowing on graduates’ choices is due in part to the design of US student loans. 
 </details>
 
 ---
