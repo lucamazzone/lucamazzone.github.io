@@ -56,7 +56,7 @@ To what extent are young workers affected by health shocks that happen to their 
 
 <hr style="height:2px;border:none;color:#333;background-color:#333;" />
 
- ## Work in Progress
+## Work in Progress
 
 Luca Mazzone and <a href="https://sites.google.com/view/jasonsockin/home"> Jason Sockin </a> 
 <br>
