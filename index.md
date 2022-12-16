@@ -4,8 +4,8 @@ layout: home
 
 Welcome to my research website! My research interests are in macroeconomics, labor economics, and household finance. Here's my <a href="{{ site.url }}/assets/New_CV.pdf"> CV </a>.
 
----
----
+<hr style="height:1px;border:none;color:#333;background-color:#333;" />
+
 ## Research
 
 <hr>
