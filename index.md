@@ -5,8 +5,10 @@ layout: home
 Welcome to my research website! My research interests are in macroeconomics, labor economics, and household finance. Here's my <a href="{{ site.url }}/assets/New_CV.pdf"> CV </a>.
 
 ---
-
+---
 ## Research
+
+<hr>
 
 <a href="https://sites.google.com/view/mfolch/home"> Marc Folch</a> and Luca Mazzone (2022).
 <br> 
