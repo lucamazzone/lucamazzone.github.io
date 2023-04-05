@@ -71,8 +71,6 @@ Fiscal Consolidation: Taking Stock of Success Factors, Impact, and Design <a hre
 <sub> also available at  <a href="https://www.imf.org/en/Publications/WP/Issues/2023/03/17/Fiscal-Consolidation-Taking-Stock-of-Success-Factors-Impact-and-Design-530647">  IMF </a> </sub> <br>
 
 <hr style="height:2px;border:none;color:#333;background-color:#333;" />
-<br>
-
 
 
 Stand-by Arrangement and Arrangement under the Standby Credit Facility - Honduras
