@@ -67,10 +67,11 @@ Luca Mazzone and <a href="https://sites.google.com/view/jasonsockin/home"> Jason
  
 ## IMF and Policy Work
   
-**Fiscal Consolidation: Taking Stock of Success Factors, Impact, and Design**<a href="{{ site.url }}/docs/imf_wp-print-pdf.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
+**Fiscal Consolidation: Taking Stock of Success Factors, Impact, and Design** <a href="{{ site.url }}/docs/imf_wp-print-pdf.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
 <sub> also available at  <a href="https://www.imf.org/en/Publications/WP/Issues/2023/03/17/Fiscal-Consolidation-Taking-Stock-of-Success-Factors-Impact-and-Design-530647">  IMF </a> </sub> <br>
 
 <hr style="height:2px;border:none;color:#333;background-color:#333;" />
+<br>
 
 
 
