@@ -25,7 +25,7 @@ Student debt decreases post-bachelor school enrollment and earnings growth but d
 Luca Mazzone (2021).
 <br> 
 **On the Solution of High-Dimensional Macro Models with Distributional Channels** <a href="{{ site.url }}/docs/Macro_Models_with_Distributional_Channels_site.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
-<sub> Submitted, also available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3313244"> SSRN</a> </sub> <br>
+<sub> R & R at Computational Economics, also available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3313244"> SSRN</a> </sub> <br>
 <details>
 <summary><b> Abstract. </b></summary>
  I propose a global solution method for the computation of infinite-horizon, heterogeneous agent macroeconomic models with aggregate uncertainty. Details of the algorithm are illustrated by presenting its application to a an example model of firm dynamics. In the model, aggregate dynamics depends explicitly on firm entry and exit, and individual choices are often constrained by a form of market incompleteness. Existing computational strategies are either unfeasible or provide inaccurate solutions to this class of models. Moreover, global solutions are computationally expensive because the minimal representation of the aggregate state space - and thus the aggregate law of motion - faces the curse of dimensionality. The proposed strategy combines adaptive sparse grids with a cross-sectional density approximation, and introduces a framework for solving the more general class of dynamic models with firm or household heterogeneity accurately.
