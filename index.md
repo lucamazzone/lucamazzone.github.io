@@ -36,7 +36,7 @@ Luca Mazzone (2021).
 <hr style="height:0.5px;border:none;color:#333;background-color:#333;" />
   
   
-<a href="https://eacabbi.github.io">  Edoardo Acabbi</a>, <a href="https://andrealati.github.io"> Andrea Alati</a>, and Luca Mazzone (2022).
+<a href="https://eacabbi.github.io">  Edoardo Acabbi</a>, <a href="https://andrealati.github.io"> Andrea Alati</a>, and Luca Mazzone (2023).
 <br> 
 **A Labor Market Sorting Model of Scarring and Hysteresis** <a href="{{ site.url }}/docs/INPS_site.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
 <sub> Submitted, also available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068858"> SSRN</a> </sub> <br>
@@ -48,7 +48,7 @@ Evaluating the allocative effects of recessions is challenging due to the dynami
 
 <hr style="height:0.5px;border:none;color:#333;background-color:#333;" />
  
-<a href="https://www.saracasella.com/">  Sara Casella </a> and Luca Mazzone (2022).
+<a href="https://www.saracasella.com/">  Sara Casella </a> and Luca Mazzone (2023).
 <br> 
 **Parental Health, Aging, and the Labor Supply of Young Workers** <a href="{{ site.url }}/docs/Royal_Tenebaum_is_sick_site.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
 <sub> In Progress (New Draft Soon), also available at  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4274594">  SSRN </a> </sub> <br>
@@ -62,7 +62,7 @@ To what extent are young workers affected by health shocks that happen to their 
 
 ## Work in Progress
 
-<a href="https://floswald.github.io/"> Florian Oswald </a>, Luca Mazzone and <a href="https://deryugina.com/"> Tatyana Deryugina </a>   
+<a href="https://floswald.github.io/"> Florian Oswald </a>, Luca Mazzone and <a href="https://deryugina.com/"> Tatyana Deryugina </a> 
 <br>
 **Invisible Ties, Internal Flights: the Influence  of Non-cohabiting Family on Migration Decisions** 
 <br>
