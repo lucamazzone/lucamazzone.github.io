@@ -67,7 +67,7 @@ To what extent are young workers affected by health shocks that happen to their 
 <a href="https://deryugina.com/"> Tatyana Deryugina </a>, Luca Mazzone, and <a href="https://floswald.github.io/"> Florian Oswald </a>
 <br>
 **Invisible Ties, Internal Flights: the Influence  of Non-cohabiting Family on Migration Decisions** 
-</sub> <br>
+<br>
 <sub style="font-size: 60%; line-height: 0.65;"> Presentations: Midwest Economic Association (Chicago) </sub> <br>  
 <hr style="height:2px;border:none;color:#333;background-color:#333;" />
 
