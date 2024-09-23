@@ -11,7 +11,7 @@ Welcome to my research website! My research interests are in macroeconomics, lab
 <a href="https://eacabbi.github.io">  Edoardo Acabbi</a>, <a href="https://andrealati.github.io"> Andrea Alati</a>, and Luca Mazzone (2023).
 <br> 
 **Human Capital Ladders, Cyclical Sorting, and Hysteresis** <a href="{{ site.url }}/docs/INPS_site.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
-<sub> Submitted, also available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068858"> SSRN</a> </sub> <br>
+<sub>  R & R at the American Economic Review, also available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068858"> SSRN</a> </sub> <br>
 <sub style="font-size: 60%; line-height: 0.65;"> Previously circulated as: "A Labor Market Sorting Model of Scarring and Hysteresis". Presentations: Visitinps, EIEF, CEMFI, HEC Lausanne, IMF, UC3M, University of Milan, Bank of England, University of Wisconsin Madison, University of Colorado Boulder, Northwestern University, University of Illinois in Urbana-Champaign, University of Tokyo, Federal Reserve Board,  Bonn CRC workshop, SMYE 2021, Search and Matching Conference (Copenhagen),  Lisbon Macro 2022,  T2M 2022,  Midwest Macro (Dallas), the M3M (Frankfurt), SED annual meeting (Cartagena), Brucchi-Luchino workshop (Napoli), University of Maryland (College Park), Université de Quebec à Montreal, Virginia Commonwealth University </sub> <br>
 <details>
 <summary><b> Abstract. </b></summary>
@@ -25,7 +25,7 @@ Evaluating the allocative effects of recessions is challenging due to the dynami
 <a href="https://sites.google.com/view/mfolch/home"> Marc Folch</a> and Luca Mazzone (2022).
 <br> 
 **Go Big or Buy a Home: The Impact of Student Debt on Career and Housing Choices** <a href="{{ site.url }}/docs/Student_Debt_Paper_site.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
-<sub> Reject & Resubmit at American Economic Journal: Economic Policy,  also available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3805220 "> SSRN</a> </sub> <br>
+<sub> Submitted,  also available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3805220 "> SSRN</a> </sub> <br>
 <sub> Featured: <a href="https://eeavirtual.org/node/1430">EEA Congress</a> and  <a href="https://blogs.lse.ac.uk/businessreview/2020/10/08/how-student-debt-influences-the-behaviour-of-graduates">LSE Business Review</a> </sub> <br>
 <sub style="font-size: 60%; line-height: 0.65;"> Presentations: SED Meeting (Minneapolis), Center for the Economics of Human Development at the U of Chicago, European Meeting of the Econometric Society (Milan), Computation in Economics and Finance Conference (Dallas), European Economic Association Congress,  Bank of Italy Human Capital Workshop, U of Pennsylvania, Wharton Finance, UZH, U of Copenhagen,  SFI Workshop in Lausanne,  ICEF at the Higher School of Economics, New Economic School (Moscow) <sub> <br>
 <details>
@@ -71,6 +71,20 @@ To what extent are young workers affected by health shocks that happen to their 
 <sub style="font-size: 60%; line-height: 0.65;"> Presentations: Midwest Economic Association (Chicago) </sub> <br>  
 <hr style="height:2px;border:none;color:#333;background-color:#333;" />
 
+
+<a href="https://eacabbi.github.io">  Edoardo Acabbi</a>, <a href="https://andrealati.github.io"> Andrea Alati</a>, Luca Mazzone , and <a href="https://martamorazzoni.weebly.com"> Marta Morazzoni </a>
+<br>
+**Sorting of Entrepreneurial Teams** 
+<br>
+
+<a href="https://eacabbi.github.io">  Edoardo Acabbi</a>, <a href="https://andrealati.github.io"> Andrea Alati</a>, <a href="https://www.bengriffy.com/">  Ben Griffy</a>, Luca Mazzone , and <a href="https://sites.google.com/site/stanrabinovicheconomics"> Stanislav Rabinovich </a>
+<br>
+**The Optimal Design of Job Retention Schemes** 
+<br>
+
+
+
+## Dormant
 
 Luca Mazzone and <a href="https://sites.google.com/view/jasonsockin/home"> Jason Sockin </a> 
 <br>
