@@ -69,7 +69,6 @@ To what extent are young workers affected by health shocks that happen to their 
 **Invisible Ties, Internal Flights: the Influence  of Non-cohabiting Family on Migration Decisions** 
 <br>
 <sub style="font-size: 60%; line-height: 0.65;"> Presentations: Midwest Economic Association (Chicago) </sub> <br>  
-<hr style="height:2px;border:none;color:#333;background-color:#333;" />
 
 
 <a href="https://eacabbi.github.io">  Edoardo Acabbi</a>, <a href="https://andrealati.github.io"> Andrea Alati</a>, Luca Mazzone , and <a href="https://martamorazzoni.weebly.com"> Marta Morazzoni </a>
@@ -81,6 +80,8 @@ To what extent are young workers affected by health shocks that happen to their 
 <br>
 **The Optimal Design of Job Retention Schemes** 
 <br>
+
+<hr style="height:2px;border:none;color:#333;background-color:#333;" />
 
 
 
