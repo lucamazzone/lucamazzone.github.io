@@ -100,3 +100,10 @@ Article IV Consultation - Israel
  
 <br>
 
+Article IV Consultation - Malta
+ <br> 
+<a href="https://www.imf.org/-/media/Files/Publications/CR/2024/English/1MLTEA2024001.ashx">  Staff Report </a> (2024) 
+ 
+<br>
+
+
