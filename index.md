@@ -99,6 +99,11 @@ Luca Mazzone and <a href="https://sites.google.com/view/jasonsockin/home"> Jason
 Fiscal Consolidation: Taking Stock of Success Factors, Impact, and Design <a href="{{ site.url }}/docs/imf_wp-print-pdf.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
 <sub>  R & R at the Journal of Economic Surveys, also available at  <a href="https://www.imf.org/en/Publications/WP/Issues/2023/03/17/Fiscal-Consolidation-Taking-Stock-of-Success-Factors-Impact-and-Design-530647">  IMF </a> </sub> <br>
 
+Regional Economic Outlook (Europe): Europe’s Declining Productivity Growth: Diagnoses and Remedies
+ <br> 
+<a href="https://www.imf.org/-/media/Files/Publications/REO/EUR/2024/October/English/reoeurnote.ashx">  Note </a> (2024) 
+
+
 <hr style="height:2px;border:none;color:#333;background-color:#333;" />
 
 
