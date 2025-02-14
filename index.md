@@ -47,9 +47,7 @@ Luca Mazzone (2021).
 </details>
   
 <hr style="height:0.5px;border:none;color:#333;background-color:#333;" />
-  
-  
- 
+   
 <a href="https://www.saracasella.com/">  Sara Casella </a> and Luca Mazzone (2023).
 <br> 
 **Parental Health, Aging, and the Labor Supply of Young Workers** <a href="{{ site.url }}/docs/Royal_Tenebaum_is_sick_site.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
@@ -58,6 +56,19 @@ Luca Mazzone (2021).
 <details>
 <summary><b> Abstract. </b></summary>
 To what extent are young workers affected by health shocks that happen to their parents? This paper studies the short and long-term spillover effects of parents' adverse health events on their adult children. We use the unique structure of the Panel Survey on Income Dynamics (PSID) to build family networks and construct a measure of sudden health changes. Exploiting news on parents' health status, we provide evidence of the existence of family insurance in the form of time and monetary transfers, and of the importance of family ties in shaping labor market outcomes. Following the deterioration of parents' health, time spent helping them goes up, while income and hours worked by children significantly decline. 
+</details>  
+
+
+<hr style="height:0.5px;border:none;color:#333;background-color:#333;" />
+   
+<a href="https://eacabbi.github.io">  Edoardo Acabbi</a>, <a href="https://andrealati.github.io"> Andrea Alati</a>, Luca Mazzone , and <a href="https://martamorazzoni.weebly.com"> Marta Morazzoni </a> (2025)
+<br> 
+**Sorting into Entrepreneurial Teams** <a href="{{ site.url }}/docs/Entreps_paper.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
+<sub> In Progress </sub> <br>
+<sub style="font-size: 60%; line-height: 0.65;"> Presentations: UCL, Queen Mary University London, CREI, Goethe University Frankfurt, the Inter-American Development Bank, Northwestern University, Bank of England, the Chicago FED, the LSE Junior Macro Conference, and the NYU Abu Dhabi Conference on New Frontiers for Policy Evaluation </sub> <br>
+<details>
+<summary><b> Abstract. </b></summary>
+This paper studies how entrepreneurs sort into teams and how team entrepreneurship affects the equilibrium distribution of firms. Leveraging employer-employee administrative records matched with privately-held firms’ balance sheet data for Portugal, we show that firms of entrepreneurial teams have higher sales, productivity and survival rates than those owned by single entrepreneurs. We then exploit information on individuals’ careers before opening a firm to establish that there is a strong degree of sorting in entrepreneurial teams along observed and unobserved heterogeneity. A novel theory of career choices and team formation rationalizes why similarity in entrepreneurs’ overall talent and dissimilarity in their specialization lead to better firm outcomes, providing insights into the micro-foundations of firm growth.
 </details>  
 
 <hr style="height:2px;border:none;color:#333;background-color:#333;" />
@@ -69,12 +80,6 @@ To what extent are young workers affected by health shocks that happen to their 
 **Invisible Ties, Internal Flights: the Influence  of Non-cohabiting Family on Migration Decisions** 
 <br>
 <sub style="font-size: 60%; line-height: 0.65;"> Presentations: Midwest Economic Association (Chicago) </sub> <br>  
-
-
-<a href="https://eacabbi.github.io">  Edoardo Acabbi</a>, <a href="https://andrealati.github.io"> Andrea Alati</a>, Luca Mazzone , and <a href="https://martamorazzoni.weebly.com"> Marta Morazzoni </a>
-<br>
-**Sorting of Entrepreneurial Teams** 
-<br>
 
 <a href="https://eacabbi.github.io">  Edoardo Acabbi</a>, <a href="https://andrealati.github.io"> Andrea Alati</a>, <a href="https://www.bengriffy.com/">  Ben Griffy</a>, Luca Mazzone , and <a href="https://sites.google.com/site/stanrabinovicheconomics"> Stanislav Rabinovich </a>
 <br>
