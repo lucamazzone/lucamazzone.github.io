@@ -61,7 +61,7 @@ To what extent are young workers affected by health shocks that happen to their 
 
 <hr style="height:0.5px;border:none;color:#333;background-color:#333;" />
    
-<a href="https://eacabbi.github.io">  Edoardo Acabbi</a>, <a href="https://andrealati.github.io"> Andrea Alati</a>, Luca Mazzone , and <a href="https://martamorazzoni.weebly.com"> Marta Morazzoni </a> (2025)
+<a href="https://eacabbi.github.io">  Edoardo Acabbi</a>, <a href="https://andrealati.github.io"> Andrea Alati</a>, Luca Mazzone, and <a href="https://martamorazzoni.weebly.com"> Marta Morazzoni </a> (2025)
 <br> 
 **Sorting into Entrepreneurial Teams** <a href="{{ site.url }}/docs/Entreps_paper.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
 <sub> In Progress </sub> <br>
