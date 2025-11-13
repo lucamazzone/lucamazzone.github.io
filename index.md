@@ -6,7 +6,25 @@ Welcome to my research website! My research interests are in macroeconomics, lab
 
 <hr style="height:2px;border:none;color:#333;background-color:#333;" />
 
-## Research
+## Publications
+
+<a href="https://sites.google.com/view/mfolch/home"> Marc Folch</a> and Luca Mazzone (2022).
+<br> 
+**Go Big or Buy a Home: The Impact of Student Debt on Career and Housing Choices** <a href="{{ site.url }}/docs/Student_Debt_Paper_site.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
+<sub> accepted at the Review of Economic Dynamics,  also available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3805220 "> SSRN</a> </sub> <br>
+<sub> Featured: <a href="https://eeavirtual.org/node/1430">EEA Congress</a> and  <a href="https://blogs.lse.ac.uk/businessreview/2020/10/08/how-student-debt-influences-the-behaviour-of-graduates">LSE Business Review</a> </sub> <br>
+<sub style="font-size: 60%; line-height: 0.65;"> Presentations: SED Meeting (Minneapolis), Center for the Economics of Human Development at the U of Chicago, European Meeting of the Econometric Society (Milan), Computation in Economics and Finance Conference (Dallas), European Economic Association Congress,  Bank of Italy Human Capital Workshop, U of Pennsylvania, Wharton Finance, UZH, U of Copenhagen,  SFI Workshop in Lausanne,  ICEF at the Higher School of Economics, New Economic School (Moscow) <sub> <br>
+<details>
+<summary><b> Abstract. </b></summary>
+Student debt decreases post-bachelor school enrollment and earnings growth but does not delay first-time home ownership. We introduce a life-cycle human capital model with heterogeneous wealth and financial frictions and show that high debt balances distort career choices because returns to further education depend on current income. Student debt impacts home ownership in two ways. First, it deters ownership via the traditional wealth channel. Second, it increases ownership by discouraging further education in favor of early labor market entry. Finally, we show that the impact of student borrowing is partly due to the design of US student loans.
+</details>
+  
+<hr style="height:0.5px;border:none;color:#333;background-color:#333;" />
+
+
+
+
+## Working Papers
 
 <a href="https://eacabbi.github.io">  Edoardo Acabbi</a>, <a href="https://andrealati.github.io"> Andrea Alati</a>, and Luca Mazzone (2023).
 <br> 
@@ -20,20 +38,6 @@ Evaluating the allocative effects of recessions is challenging due to the dynami
 
 <hr style="height:0.5px;border:none;color:#333;background-color:#333;" />
 
-
-
-<a href="https://sites.google.com/view/mfolch/home"> Marc Folch</a> and Luca Mazzone (2022).
-<br> 
-**Go Big or Buy a Home: The Impact of Student Debt on Career and Housing Choices** <a href="{{ site.url }}/docs/Student_Debt_Paper_site.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
-<sub> conditionally accepted at the Review of Economic Dynamics,  also available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3805220 "> SSRN</a> </sub> <br>
-<sub> Featured: <a href="https://eeavirtual.org/node/1430">EEA Congress</a> and  <a href="https://blogs.lse.ac.uk/businessreview/2020/10/08/how-student-debt-influences-the-behaviour-of-graduates">LSE Business Review</a> </sub> <br>
-<sub style="font-size: 60%; line-height: 0.65;"> Presentations: SED Meeting (Minneapolis), Center for the Economics of Human Development at the U of Chicago, European Meeting of the Econometric Society (Milan), Computation in Economics and Finance Conference (Dallas), European Economic Association Congress,  Bank of Italy Human Capital Workshop, U of Pennsylvania, Wharton Finance, UZH, U of Copenhagen,  SFI Workshop in Lausanne,  ICEF at the Higher School of Economics, New Economic School (Moscow) <sub> <br>
-<details>
-<summary><b> Abstract. </b></summary>
-Student debt decreases post-bachelor school enrollment and earnings growth but does not delay first-time home ownership. We introduce a life-cycle human capital model with heterogeneous wealth and financial frictions and show that high debt balances distort career choices because returns to further education depend on current income. Student debt impacts home ownership in two ways. First, it deters ownership via the traditional wealth channel. Second, it increases ownership by discouraging further education in favor of early labor market entry. Finally, we show that the impact of student borrowing is partly due to the design of US student loans.
-</details>
-  
-<hr style="height:0.5px;border:none;color:#333;background-color:#333;" />
   
   
 Luca Mazzone (2021).
