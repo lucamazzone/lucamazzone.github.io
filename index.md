@@ -8,7 +8,7 @@ Welcome to my research website! My research interests are in macroeconomics, lab
 
 ## Publications
 
-<a href="https://sites.google.com/view/mfolch/home"> Marc Folch</a> and Luca Mazzone (2022).
+<a href="https://sites.google.com/view/mfolch/home"> Marc Folch</a> and Luca Mazzone
 <br> 
 **Go Big or Buy a Home: The Impact of Student Debt on Career and Housing Choices** <a href="{{ site.url }}/docs/Student_Debt_Paper_site.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
 <sub> accepted at the Review of Economic Dynamics,  also available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3805220 "> SSRN</a> </sub> <br>
