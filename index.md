@@ -11,7 +11,7 @@ Welcome to my research website! My research interests are in macroeconomics, lab
 <a href="https://sites.google.com/view/mfolch/home"> Marc Folch</a> and Luca Mazzone
 <br> 
 **Go Big or Buy a Home: The Impact of Student Debt on Career and Housing Choices** <a href="{{ site.url }}/docs/Student_Debt_Paper_site.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
-<sub> accepted at the Review of Economic Dynamics,  also available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3805220 "> SSRN</a> </sub> <br>
+<sub> Review of Economic Dynamics, Volume 59, 2026, also available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3805220 "> SSRN</a> </sub> <br>
 <sub> Featured: <a href="https://eeavirtual.org/node/1430">EEA Congress</a> and  <a href="https://blogs.lse.ac.uk/businessreview/2020/10/08/how-student-debt-influences-the-behaviour-of-graduates">LSE Business Review</a> </sub> <br>
 <sub style="font-size: 60%; line-height: 0.65;"> Presentations: SED Meeting (Minneapolis), Center for the Economics of Human Development at the U of Chicago, European Meeting of the Econometric Society (Milan), Computation in Economics and Finance Conference (Dallas), European Economic Association Congress,  Bank of Italy Human Capital Workshop, U of Pennsylvania, Wharton Finance, UZH, U of Copenhagen,  SFI Workshop in Lausanne,  ICEF at the Higher School of Economics, New Economic School (Moscow) <sub> <br>
 <details>
