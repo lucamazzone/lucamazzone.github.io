@@ -28,7 +28,7 @@ Student debt decreases post-bachelor school enrollment and earnings growth but d
 
 <a href="https://eacabbi.github.io">  Edoardo Acabbi</a>, <a href="https://andrealati.github.io"> Andrea Alati</a>, and Luca Mazzone (2023).
 <br> 
-**Human Capital Ladders, Cyclical Sorting, and Hysteresis** <a href="{{ site.url }}/docs/INPS_site.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
+**The Collapse of Human Capital Ladders in Recessions** <a href="{{ site.url }}/docs/INPS_site.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
 <sub>  R & R at the American Economic Review, also available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068858"> SSRN</a> </sub> <br>
 <sub style="font-size: 60%; line-height: 0.65;"> Previously circulated as: "A Labor Market Sorting Model of Scarring and Hysteresis". Presentations: Visitinps, EIEF, CEMFI, HEC Lausanne, IMF, UC3M, University of Milan, Bank of England, University of Wisconsin Madison, University of Colorado Boulder, Northwestern University, University of Illinois in Urbana-Champaign, University of Tokyo, Federal Reserve Board,  Bonn CRC workshop, SMYE 2021, Search and Matching Conference (Copenhagen),  Lisbon Macro 2022,  T2M 2022,  Midwest Macro (Dallas), the M3M (Frankfurt), SED annual meeting (Cartagena), Brucchi-Luchino workshop (Napoli), University of Maryland (College Park), Université de Quebec à Montreal, Virginia Commonwealth University </sub> <br>
 <details>
