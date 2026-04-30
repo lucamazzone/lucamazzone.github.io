@@ -19,6 +19,8 @@ With <a href="https://sites.google.com/view/mfolch/home"> Marc Folch</a>:
 Student debt decreases post-bachelor school enrollment and earnings growth but does not delay first-time home ownership. We introduce a life-cycle human capital model with heterogeneous wealth and financial frictions and show that high debt balances distort career choices because returns to further education depend on current income. Student debt impacts home ownership in two ways. First, it deters ownership via the traditional wealth channel. Second, it increases ownership by discouraging further education in favor of early labor market entry. Finally, we show that the impact of student borrowing is partly due to the design of US student loans.
 </details>
 
+<hr style="height:0.5px;border:none;color:#333;background-color:#333;" />
+
 
 With Vybhavi Balasundharam, Olivier Basdevant, Dalmacio Benicio, Andrew Ceber, Yujin Kim, Hoda Selim, and Yongzheng Yang:
 **Fiscal Consolidation: Taking Stock of Success Factors, Impact, and Design**  <a href="https://onlinelibrary.wiley.com/doi/10.1111/joes.70100?trk=feed-detail_main-feed-card_feed-article-content" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
