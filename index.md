@@ -18,7 +18,11 @@ Welcome to my research website! My research interests are in macroeconomics, lab
 <summary><b> Abstract. </b></summary>
 Student debt decreases post-bachelor school enrollment and earnings growth but does not delay first-time home ownership. We introduce a life-cycle human capital model with heterogeneous wealth and financial frictions and show that high debt balances distort career choices because returns to further education depend on current income. Student debt impacts home ownership in two ways. First, it deters ownership via the traditional wealth channel. Second, it increases ownership by discouraging further education in favor of early labor market entry. Finally, we show that the impact of student borrowing is partly due to the design of US student loans.
 </details>
-  
+
+
+**Fiscal Consolidation: Taking Stock of Success Factors, Impact, and Design**  <a href="https://onlinelibrary.wiley.com/doi/10.1111/joes.70100?trk=feed-detail_main-feed-card_feed-article-content" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
+<sub> Journal of Economic Surveys, 2026  <a href="https://www.imf.org/en/Publications/WP/Issues/2023/03/17/Fiscal-Consolidation-Taking-Stock-of-Success-Factors-Impact-and-Design-530647">  IMF </a> </sub> <br>
+
 <hr style="height:0.5px;border:none;color:#333;background-color:#333;" />
 
 
@@ -105,8 +109,6 @@ Luca Mazzone and <a href="https://sites.google.com/view/jasonsockin/home"> Jason
  
 ## IMF and Policy Work
   
-Fiscal Consolidation: Taking Stock of Success Factors, Impact, and Design <a href="{{ site.url }}/docs/imf_wp-print-pdf.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
-<sub>  R & R at the Journal of Economic Surveys, also available at  <a href="https://www.imf.org/en/Publications/WP/Issues/2023/03/17/Fiscal-Consolidation-Taking-Stock-of-Success-Factors-Impact-and-Design-530647">  IMF </a> </sub> <br>
 
 Regional Economic Outlook (Europe): Europe’s Declining Productivity Growth: Diagnoses and Remedies
  <br> 
