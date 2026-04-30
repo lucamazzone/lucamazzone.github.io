@@ -86,7 +86,7 @@ This paper studies how entrepreneurs sort into founding teams and how team compo
 
 ## Work in Progress
 
-with <a href="https://deryugina.com/"> Tatyana Deryugina </a> and <a href="https://floswald.github.io/"> Florian Oswald </a>:
+With <a href="https://deryugina.com/"> Tatyana Deryugina </a> and <a href="https://floswald.github.io/"> Florian Oswald </a>:
 <br>
 **Invisible Ties, Internal Flights: the Influence  of Non-cohabiting Family on Migration Decisions** 
 <br>
@@ -103,7 +103,7 @@ With <a href="https://eacabbi.github.io">  Edoardo Acabbi</a>, <a href="https://
 
 ## Dormant
 
-Luca Mazzone and <a href="https://sites.google.com/view/jasonsockin/home"> Jason Sockin </a> 
+With <a href="https://sites.google.com/view/jasonsockin/home"> Jason Sockin </a>:
 <br>
 **The Labor Economics of Political Polarization** 
 <br>
