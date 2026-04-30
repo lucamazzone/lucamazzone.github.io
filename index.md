@@ -8,7 +8,7 @@ Welcome to my research website! My research interests are in macroeconomics, lab
 
 ## Publications
 
-<a href="https://sites.google.com/view/mfolch/home"> Marc Folch</a> and Luca Mazzone
+With <a href="https://sites.google.com/view/mfolch/home"> Marc Folch</a>:
 <br> 
 **Go Big or Buy a Home: The Impact of Student Debt on Career and Housing Choices** <a href="{{ site.url }}/docs/Student_Debt_Paper_site.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
 <sub> Review of Economic Dynamics, Volume 59, 2026, also available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3805220 "> SSRN</a> </sub> <br>
@@ -20,6 +20,7 @@ Student debt decreases post-bachelor school enrollment and earnings growth but d
 </details>
 
 
+With Vybhavi Balasundharam, Olivier Basdevant, Dalmacio Benicio, Andrew Ceber, Yujin Kim, Hoda Selim, and Yongzheng Yang:
 **Fiscal Consolidation: Taking Stock of Success Factors, Impact, and Design**  <a href="https://onlinelibrary.wiley.com/doi/10.1111/joes.70100?trk=feed-detail_main-feed-card_feed-article-content" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
 <sub> Journal of Economic Surveys, 2026  <a href="https://www.imf.org/en/Publications/WP/Issues/2023/03/17/Fiscal-Consolidation-Taking-Stock-of-Success-Factors-Impact-and-Design-530647">  IMF </a> </sub> <br>
 
@@ -30,7 +31,7 @@ Student debt decreases post-bachelor school enrollment and earnings growth but d
 
 ## Working Papers
 
-<a href="https://eacabbi.github.io">  Edoardo Acabbi</a>, <a href="https://andrealati.github.io"> Andrea Alati</a>, and Luca Mazzone (2024).
+With <a href="https://eacabbi.github.io">  Edoardo Acabbi</a> and <a href="https://andrealati.github.io"> Andrea Alati</a>:
 <br> 
 **The Collapse of Human Capital Ladders in Recessions** <a href="{{ site.url }}/docs/INPS_site.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
 <sub>  R & R at the American Economic Review (2nd round), also available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4068858"> SSRN</a> </sub> <br>
@@ -44,7 +45,6 @@ Evaluating the allocative effects of recessions is challenging due to the dynami
 
   
   
-Luca Mazzone (2021).
 <br> 
 **On the Solution of High-Dimensional Macro Models with Distributional Channels** <a href="{{ site.url }}/docs/Macro_Models_with_Distributional_Channels_site.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
 <sub> R & R at Computational Economics, also available at <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3313244"> SSRN</a> </sub> <br>
@@ -56,7 +56,7 @@ Luca Mazzone (2021).
   
 <hr style="height:0.5px;border:none;color:#333;background-color:#333;" />
    
-<a href="https://www.saracasella.com/">  Sara Casella </a> and Luca Mazzone (2023).
+With <a href="https://www.saracasella.com/">  Sara Casella </a>:
 <br> 
 **Parental Health, Aging, and the Labor Supply of Young Workers** <a href="{{ site.url }}/docs/Royal_Tenebaum_is_sick_site.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
 <sub> In Progress (New Draft Soon), also available at  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4274594">  SSRN </a> </sub> <br>
@@ -69,7 +69,7 @@ To what extent are young workers affected by health shocks that happen to their 
 
 <hr style="height:0.5px;border:none;color:#333;background-color:#333;" />
    
-<a href="https://eacabbi.github.io">  Edoardo Acabbi</a>, <a href="https://andrealati.github.io"> Andrea Alati</a>, Luca Mazzone, and <a href="https://martamorazzoni.weebly.com"> Marta Morazzoni </a> (2025)
+With <a href="https://eacabbi.github.io">  Edoardo Acabbi</a>, <a href="https://andrealati.github.io"> Andrea Alati</a>, and <a href="https://martamorazzoni.weebly.com"> Marta Morazzoni </a>:
 <br> 
 **Sorting into Entrepreneurial Teams** <a href="{{ site.url }}/docs/Entreps_paper.pdf" class="{{ site.pdf_icon }}" title="{{ site.pdf_title }}" id="icon"></a><br> 
 <sub> In Progress </sub> <br>
@@ -83,13 +83,13 @@ This paper studies how entrepreneurs sort into founding teams and how team compo
 
 ## Work in Progress
 
-<a href="https://deryugina.com/"> Tatyana Deryugina </a>, Luca Mazzone, and <a href="https://floswald.github.io/"> Florian Oswald </a>
+with <a href="https://deryugina.com/"> Tatyana Deryugina </a> and <a href="https://floswald.github.io/"> Florian Oswald </a>:
 <br>
 **Invisible Ties, Internal Flights: the Influence  of Non-cohabiting Family on Migration Decisions** 
 <br>
 <sub style="font-size: 60%; line-height: 0.65;"> Presentations: Midwest Economic Association (Chicago) </sub> <br>  
 
-<a href="https://eacabbi.github.io">  Edoardo Acabbi</a>, <a href="https://andrealati.github.io"> Andrea Alati</a>, <a href="https://www.bengriffy.com/">  Ben Griffy</a>, Luca Mazzone , and <a href="https://sites.google.com/site/stanrabinovicheconomics"> Stanislav Rabinovich </a>
+With <a href="https://eacabbi.github.io">  Edoardo Acabbi</a>, <a href="https://andrealati.github.io"> Andrea Alati</a>, <a href="https://www.bengriffy.com/">  Ben Griffy</a>,  and <a href="https://sites.google.com/site/stanrabinovicheconomics"> Stanislav Rabinovich </a>:
 <br>
 **The Optimal Design of Job Retention Schemes** 
 <br>
